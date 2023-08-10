@@ -33,3 +33,40 @@
 ### [Certificate of Completion](https://coursera.org/share/f2f756054b2282809172ca1897e8a225)
 
 <br/>
+
+## Course 2 : [Programming With Javascript](/C2-Programming-with-Javascript/)
+
+- [Week 1](/C2-Programming-with-Javascript/week1/)
+  - [Quiz - Welcome to Programming](/C2-Programming-with-Javascript/week1/practice-quiz-welcome-to-programming%20/)
+  - [Quiz - Introduction to Javascript](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/)
+
+<br/>
+
+- [Week 2](/C2-Programming-with-Javascript/week2/)
+  - [Quiz - Arrays, Objects and Functions](/C2-Programming-with-Javascript/week2/practice-quiz-arrays-objects-and-functions/)
+  - [Quiz - Error Handling](/C2-Programming-with-Javascript/week2/practice-quiz-Error-handling/)
+
+<br/>
+
+- [Week 3](/C2-Programming-with-Javascript/week3/)
+  - [Programming Assignment - Functional Programming](/C2-Programming-with-Javascript/week3/functional_programming/)
+  - [Programming Assignment - Building an Object Oriented Program](/C2-Programming-with-Javascript/week3/building-an-oop/)
+  - [Programming Assignment - Array and Object Iteration](/C2-Programming-with-Javascript/week3/array-and-object-iteration/)
+  - [Quiz - Introduction to Functional Programming](/C2-Programming-with-Javascript/week3/practice-quiz-intro-to-functional-programming/)
+  - [Quiz - Programming Paradigms](/C2-Programming-with-Javascript/week3/programming-paradigms/)
+
+<br/>
+
+- [Week 4](/C2-Programming-with-Javascript/week4/)
+  - [Programming Assignment - Writing a Unit Test](/C2-Programming-with-Javascript/week4/w4a1/)
+  - [Quiz - Testing](/C2-Programming-with-Javascript/week4/practice-quiz-testing/)
+
+<br/>
+
+- [Week 5](/C2-Programming-with-Javascript/week5/)
+  - [Programming Assignment](/C2-Programming-with-Javascript/week5/w5a1/)
+  - [End Of Course Quiz](/C2-Programming-with-Javascript/week5/end-of-course/)
+
+### [Certificate of Completion](coming soon...)
+
+<br/>
